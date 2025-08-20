@@ -1,6 +1,24 @@
 {
   "cache_time": 7200,
   "sites": [
+	  {
+      "key": "yparse",
+      "name": "TV-步步高资源",
+      "type": 1,
+      "api": "https://api.yparse.com/api/json",
+      "ext": {
+            "detail": "https://www.yparse.com"
+      }
+    },
+	  {
+      "key": "yparse",
+      "name": "AV-香奶儿资源",
+      "type": 1,
+      "api": "https://www.gdlsp.com/api/json.php",
+      "ext": {
+            "detail": "https://www.gdlsp.com"
+      }
+    },
     {
       "key": "pgxdy",
       "name": "黄资源",
