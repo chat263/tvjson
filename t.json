@@ -1,6 +1,24 @@
 {
   "cache_time": 7200,
   "sites": [
+	{
+		"key": "baozi",
+        "name": "雨哥哥资源",
+      	"type": 1,
+        "api": "http://cj.baozi66.top:66/api.php/provide/vod",
+		"ext": {
+            "detail": "http://cj.baozi66.top:66"
+		}
+    },
+	{
+		"key": "smdyw",
+        "name": "神马资源",
+      	"type": 1,
+        "api": "https://img.smdyw.top/api.php/provide/vod",
+		"ext": {
+            "detail": "https://img.smdyw.top"
+		}
+    },
 	  {
       "key": "yparse",
       "name": "TV-步步高资源",
