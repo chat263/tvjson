@@ -1,6 +1,11 @@
 {
 	"cache_time": 7200,
 	"api_site": {
+		"baozi": {
+            "name": "雨哥哥资源",
+            "api": "http://cj.baozi66.top:66/api.php/provide/vod",
+            "detail": "http://cj.baozi66.top:66"
+        },
 		"smdyw": {
             "name": "神马资源",
             "api": "https://img.smdyw.top/api.php/provide/vod",
