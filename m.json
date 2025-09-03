@@ -3,7 +3,7 @@
 	"api_site": {
 		"smdyw": {
             "name": "神马资源",
-            "api": "https://img.smdyw.top/api.php/provide/vod,
+            "api": "https://img.smdyw.top/api.php/provide/vod",
             "detail": "https://img.smdyw.top"
         },
 		"yparse": {
