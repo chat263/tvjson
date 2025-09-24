@@ -1,6 +1,24 @@
 {
 	"cache_time": 7200,
-	"api_site": {
+	"api_site": { 
+		"douapi": {
+      "name": "AV-豆豆资源",
+      "api": "https://api.douapi.cc/api.php/provide/vod",
+      "detail": "https://doudouzy.com",
+      "is_adult": true
+    },
+		"xzybb21": {
+      "name": "AV-幸资源",
+      "api": "https://xzybb2.com/api.php/provide/vod",
+      "detail": "https://xzytv.com",
+      "is_adult": true
+    },
+		"yyzy": {
+      "name": "AV-优优资源",
+      "api": "https://www.yyzywcj.com/api.php/provide/vod",
+      "detail": "https://www.yyzywcj.com",
+      "is_adult": true
+    },
 		"baozi": {
             "name": "雨哥哥资源",
             "api": "http://cj.baozi66.top:66/api.php/provide/vod",
