@@ -1,6 +1,36 @@
 {
   "cache_time": 7200,
   "sites": [
+		 {
+			"key": "douapi",
+      "name": "AV-豆豆资源",
+      "api": "https://api.douapi.cc/api.php/provide/vod",
+      	"type": 1,
+			 "ext": {
+      "detail": "https://doudouzy.com",
+      "adult": true
+			 }
+    },
+		{
+			"key": "xzybb21",
+      "name": "AV-幸资源",
+      "api": "https://xzybb2.com/api.php/provide/vod",
+      	"type": 1,
+			"ext": {
+      "detail": "https://xzytv.com",
+      "adult": true
+			}
+    },
+		 {
+			"key": "yyzy",
+      "name": "AV-优优资源",
+      	"type": 1,
+      "api": "https://www.yyzywcj.com/api.php/provide/vod",
+			 "ext": {
+      "detail": "https://www.yyzywcj.com",
+      "adult": true
+			 }
+    },
 	{
 		"key": "baozi",
         "name": "雨哥哥资源",
